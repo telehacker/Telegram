@@ -2,7 +2,7 @@
     "name": "Telegram",
     "description": "an awesome music+ management source code.",
     "keywords": ["Zaid", "telegram", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
-    "repository": "https://github.com/ITZ-ZAID/Telegram",
+    "repository": "https://github.com/telehacker/Telegram",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
